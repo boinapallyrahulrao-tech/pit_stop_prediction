@@ -88,7 +88,7 @@ The dashboard includes SHAP explainability to understand:
 
 ---
 
-# 📂Project Structure
+# Project Structure
 
 ```bash
 F1_Pit_Stop_Prediction/
