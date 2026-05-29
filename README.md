@@ -6,6 +6,22 @@ This project predicts whether a Formula 1 driver is likely to pit on the next la
 
 ---
 
+# Dataset
+
+The dataset used in this project was obtained from Kaggle.
+
+The data was used solely for educational and portfolio purposes.
+
+---
+
+# Business Problem
+
+In Formula 1, pit stop strategy can determine race outcomes. Teams continuously analyze tyre degradation, race pace, track position, and race conditions to decide when a driver should pit.
+
+This project aims to predict whether a driver is likely to make a pit stop on the next lap using machine learning techniques.
+
+---
+
 #  Project Features
 
 - Predicts next-lap pit stop decisions
@@ -62,7 +78,7 @@ XGBoost achieved the best overall performance.
 # Dashboard Screenshots
 
 ## Homepage
-![Homepage](screenshots/pit prediction.png)
+![Homepage](Screenshots/pit prediction.png)
 ---
 
 # Explainable AI
@@ -106,3 +122,12 @@ F1_Pit_Stop_Prediction/
 │
 └── venv/
 
+---
+
+# Future Improvements
+
+- Integrate real-time F1 telemetry APIs
+- Deploy dashboard to cloud infrastructure
+- Add race-specific strategy recommendations
+- Train deep learning models for enhanced predictions
+- Incorporate weather and track condition data
